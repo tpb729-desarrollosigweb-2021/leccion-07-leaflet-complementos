@@ -23,5 +23,4 @@ L.tileLayer.provider('Stamen.Watercolor').addTo(map);
 
 **Ejercicios**  
 1. Tomando como base el código fuente disponible en [https://github.com/tpb729-desarrollosigweb-2021/ejemplo-mapa-leaflet-complementos](https://github.com/tpb729-desarrollosigweb-2021/ejemplo-mapa-leaflet-complementos) (y que puede visualizarse en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-complementos/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-complementos/)):  
-
   a. Agregue dos capas base adicionales utilizando el complemento leaflet-providers.
